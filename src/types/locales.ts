@@ -1,0 +1,1 @@
+export const locales = ['en', 'pt-pt', 'pt-br'] as const
